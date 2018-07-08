@@ -1,1 +1,1 @@
-# simple-register-in-php
+# Simple Register in PHP
